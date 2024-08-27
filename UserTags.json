@@ -1,7 +1,7 @@
 {
   "Alltags": [
     {
-      "Utag": "<b><i><color=#FF0040>S</color><color=#FF0044>C</color><color=#FF0048>R</color><color=#FF004D>I</color><color=#FF0051>M</color> <color=#FF005A>E</color><color=#FF005E>N</color><color=#FF0063>G</color><color=#FF0067>I</color><color=#FF006B>N</color><color=#FF0070>E</color> <color=#FF0079>U</color><color=#FF007D>S</color><color=#FF0081>E</color><color=#FF0086>R</color> <color=#FF008F>I</color><color=#FF0093>D</color> <color=#FF009C>0</color> <color=#FF00A5>F</color><color=#FF00A9>R</color> <color=#FF00B2>F</color><color=#FF00B6>R</color></i></b>",
+      "Utag": "<b><color=#FF0000>S</color><color=#FF3100>c</color><color=#FF6200>r</color><color=#FF9400>i</color><color=#FFC500>m</color><color=#FFF600>m</color><color=#D5FF00>a</color><color=#A4FF00>n</color><color=#73FF00>e</color> <color=#10FF00>T</color><color=#00FF20>h</color><color=#00FF52>e</color> <color=#00FFB4>T</color><color=#00FFE6>h</color><color=#00E6FF>u</color><color=#00B4FF>g</color> <color=#0052FF>S</color><color=#0020FF>h</color><color=#1000FF>a</color><color=#4100FF>k</color><color=#7300FF>e</color><color=#A400FF>r</color> <color=#FF00F6>D</color><color=#FF00C5>a</color><color=#FF0094>d</color><color=#FF0062>d</color><color=#FF0031>y</color></b>",
       "Uid": "usr_2ee199de-c4e4-4a1f-98d2-a23500bf134a"
     },
     {
@@ -21,12 +21,12 @@
       "Uid": "usr_3da66258-d3c9-4e31-84d2-4f654546dcce"
     },
     {
-      "Utag": "",
-      "Uid": ""
+      "Utag": "<b><color=#0062FF>W</color><color=#065EFF>o</color><color=#0C5AFF>r</color><color=#1257FF>l</color><color=#1853FF>d</color><color=#1E4FFF>s</color> <color=#2B48FF>W</color><color=#3144FF>o</color><color=#3741FF>r</color><color=#3D3DFF>s</color><color=#433AFF>t</color> <color=#4F32FF>M</color><color=#562FFF>u</color><color=#5C2BFF>s</color><color=#6227FF>i</color><color=#6824FF>c</color> <color=#741DFF>P</color><color=#7A19FF>r</color><color=#8115FF>o</color><color=#8712FF>d</color><color=#8D0EFF>u</color><color=#930AFF>c</color><color=#9907FF>e</color><color=#9F03FF>r</color></b>",
+      "Uid": "usr_125497d8-9d2a-4a18-af1b-2a185012b454"
     },
     {
-      "Utag": "",
-      "Uid": ""
+      "Utag": "<color=#FB00FF>R</color><color=#F700FF>e</color><color=#F400FF>a</color><color=#F000FF>l</color><color=#ED00FF>l</color><color=#EA00FF>y</color> <color=#E300FF>g</color><color=#E000FF>a</color><color=#DC00FF>y</color> <color=#D600FF>W</color><color=#D200FF>o</color><color=#CF00FF>m</color><color=#CC00FF>a</color><color=#C800FF>n</color> <color=#C200FF>p</color><color=#BE00FF>e</color><color=#BB00FF>r</color><color=#B800FF>s</color><color=#B400FF>o</color><color=#B100FF>n</color>",
+      "Uid": "usr_217e1f48-76ba-4db2-8695-03864c1cc7ac"
     },
     {
       "Utag": "",
