@@ -1,31 +1,16 @@
-[
+{
+  "Alltags": [
     {
-        "UserId": "usr_2ee199de-c4e4-4a1f-98d2-a23500bf134a",
-        "Tag": "Testing uhhh"
+      "Utag": ":3",
+      "Uid": "usr_2ee199de-c4e4-4a1f-98d2-a23500bf134a"
     },
     {
-        "UserId": "usr_9834a24f-67bd-477a-a28c-8d733f542270",
-        "Tag": "Snowbunny",
-	"DopeRGB": true
+      "Utag": ":3",
+      "Uid": "usr_8354d61f-889b-4aec-94c3-8806d56972f6"
     },
     {
-        "UserId": "usr_01868f40-5fa1-4b18-aaff-5f44f00546a0",
-        "Tag": "<color=#ff0035>gay</color>"
-    },
-    {
-        "UserId": "",
-        "Tag": ""
-    },
-    {
-        "UserId": "",
-        "Tag": ""
-    },
-    {
-        "UserId": "",
-        "Tag": ""
-    },
-    {
-        "UserId": "",
-        "Tag": ""
+      "Utag": ":3",
+      "Uid": "usr_794999a6-ee25-40f7-a639-6affb1cd5427"
     }
-]
+  ]
+}
