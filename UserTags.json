@@ -231,6 +231,10 @@
     {
       "Utag": "Player Tag",
       "Uid": "User ID"
+    },
+    {
+      "Utag": "literal map support",
+      "Uid": "usr_439ad691-8864-4b17-a0db-a431670b4209"
     }
   ]
 }
