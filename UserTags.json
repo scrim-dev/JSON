@@ -227,6 +227,10 @@
     {
       "Utag": "<color=#F80707>L</color><color=#F71407>O</color><color=#F72207>U</color><color=#F62F07>D</color> <color=#F64A08>A</color><color=#F55809>S</color> <color=#F57309>F</color><color=#F4800A>U</color><color=#F48E0A>C</color><color=#F49B0A>K</color>",
       "Uid": "usr_fd254595-af94-4778-9f14-fd4f111e591f"
+    },
+    {
+      "Utag": "Player Tag",
+      "Uid": "User ID"
     }
   ]
 }
