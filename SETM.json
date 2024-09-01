@@ -1,6 +1,6 @@
 {
   "AppVersion": "1.3",
-  "UpdateUrl": "aHR0cHM6Ly9hcGkuc2NyaW0uY2Mv",
+  "UpdateUrl": "aHR0cHM6Ly9hcGkuc2NyaW0uY2MvYXBwLmV4ZQ",
   "AppNotify": {
     "enabled": true,
     "title": "Update",
