@@ -289,8 +289,12 @@
       "Uid": "usr_1b5e8093-e748-4bb9-a9a7-9e3c7c5fe146"
     },
     {
-      "Utag": "T-MOBILE",
+      "Utag": "<color=#FF1AD5>T</color><color=#FFFFFF>-MOBILE</color>",
       "Uid": "usr_d91a9fa1-cd2d-417a-81fe-af60c0624e4a"
+    },
+    {
+      "Utag": "<color=#FF00BB>S</color><color=#F300C6>u</color><color=#E800D1>t</color><color=#DC00DD>r</color><color=#D100E8>u</color><color=#C600F3>e</color> <color=#FFFFFF>| (Weird black kid)</color>",
+      "Uid": "usr_0d5d5c57-82b7-490f-b810-75c35e24d08d"
     }
   ]
 }
