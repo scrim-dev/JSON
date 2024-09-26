@@ -1,9 +1,0 @@
-{
-  "AppVersion": "1.2",
-  "UpdateUrl": "aHR0cHM6Ly9hcGkuc2NyaW0uY2MvYXBwLmV4ZQ",
-  "AppNotify": {
-    "enabled": true,
-    "title": "Update",
-    "message": "A new update is available, Press OK to start update!"
-  }
-}
