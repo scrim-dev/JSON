@@ -1,24 +1,29 @@
 {
   "ExTags": [
     {
-      "Tag": "",
-      "UserName": ""
+      "Tag": "Just a test",
+      "UserName": "Y3J1c2V5",
+      "HexColor": "#297bff"
     },
     {
       "Tag": "",
-      "UserName": ""
+      "UserName": "",
+      "HexColor": "#FFFFFF"
     },
     {
       "Tag": "",
-      "UserName": ""
+      "UserName": "",
+      "HexColor": "#FFFFFF"
     },
     {
       "Tag": "",
-      "UserName": ""
+      "UserName": "",
+      "HexColor": "#FFFFFF"
     },
     {
       "Tag": "",
-      "UserName": ""
+      "UserName": "",
+      "HexColor": "#FFFFFF"
     }
   ]
 }
