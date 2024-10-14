@@ -1,40 +1,264 @@
 {
   "ModTags": [
     {
-      "UserName": "",
-      "UserID": ""
+      "UserName": "~bandit~",
+      "UserID": "usr_a198dd29-c58d-47ba-ac33-f99bb2c69ee9",
+      "AssociatedWrld": "FTAC"
+    },
+    {
+      "UserName": "JustMolded",
+      "UserID": "usr_e1c93d99-b161-4b3f-92ec-ec77c1ddc0e2",
+      "AssociatedWrld": "FTAC"
+    },
+    {
+      "UserName": "Kitbash95",
+      "UserID": "usr_f683b179-ec10-4bf8-87b4-88d216fbd8f5",
+      "AssociatedWrld": "FTAC"
+    },
+    {
+      "UserName": "AlphaCzar",
+      "UserID": "usr_11ce0817-743d-4ab9-8156-b913affe5ea9",
+      "AssociatedWrld": "FTAC"
+    },
+    {
+      "UserName": "Shade Streak",
+      "UserID": "usr_9cbeae37-f372-4cf6-9d4c-ebbf25fb16ab",
+      "AssociatedWrld": "FTAC"
+    },
+    {
+      "UserName": "~Foxeze~",
+      "UserID": "usr_d1e34628-3a9b-4ea8-b33f-a400a45c1be7",
+      "AssociatedWrld": "FTAC"
+    },
+    {
+      "UserName": "Kdizzy1117",
+      "UserID": "usr_d465d569-5319-4e89-869c-31525c0a72c2",
+      "AssociatedWrld": "FTAC"
+    },
+    {
+      "UserName": "Consort Puroona",
+      "UserID": "usr_27302882-75bc-4e0b-81f4-9ed40bde55ac",
+      "AssociatedWrld": "FTAC"
+    },
+    {
+      "UserName": "Aurora Eridani",
+      "UserID": "usr_9f6f3fc7-4a27-43d4-b262-548eec4fd22f",
+      "AssociatedWrld": "FTAC"
+    },
+    {
+      "UserName": "RalseiOvO",
+      "UserID": "usr_8eba5883-04bf-437e-a559-c340f6cb129d",
+      "AssociatedWrld": "FTAC"
+    },
+    {
+      "UserName": "- Altair -",
+      "UserID": "usr_2d63cfe9-6e25-459e-800b-903a233b0240",
+      "AssociatedWrld": "FTAC"
+    },
+    {
+      "UserName": "IceTiger540",
+      "UserID": "usr_8885553d-e725-4304-82ee-1471098bb500",
+      "AssociatedWrld": "FTAC"
+    },
+    {
+      "UserName": "»Osiris«",
+      "UserID": "usr_082a664d-5767-46cc-ac37-24f2dac5d513",
+      "AssociatedWrld": "FTAC"
+    },
+    {
+      "UserName": "- Lumine -",
+      "UserID": "usr_1940c20c-30d7-41e8-97e3-4f6fb6eae1c3",
+      "AssociatedWrld": "FTAC"
+    },
+    {
+      "UserName": "MrrMonsterr600",
+      "UserID": "usr_28c9ef04-e29a-4a21-b1e4-8a0d66f65a6f",
+      "AssociatedWrld": "FTAC"
+    },
+    {
+      "UserName": "rafiikdelswir",
+      "UserID": "usr_f9d0bda3-6485-422e-8055-13a39e2b45b7",
+      "AssociatedWrld": "FTAC"
+    },
+    {
+      "UserName": "GamingBeast2335",
+      "UserID": "usr_b720b6e6-d4bc-48e6-93b1-5f53fd0aff1e",
+      "AssociatedWrld": "FTAC"
+    },
+    {
+      "UserName": "Reimajo",
+      "UserID": "usr_4869a530-dfbb-4b8a-bb4f-c82746c0cc97",
+      "AssociatedWrld": "Mr Ban Panel"
+    },
+    {
+      "UserName": "FluffyJumbo",
+      "UserID": "usr_3da509cb-7c1f-425f-ba02-f400ffa03f29",
+      "AssociatedWrld": "FurryHideout"
+    },
+    {
+      "UserName": "T-y-l-e-r",
+      "UserID": "usr_bc4cc817-535c-4ae1-8f6a-c9b3b47cc4e5",
+      "AssociatedWrld": "FurryHideout"
+    },
+    {
+      "UserName": "Harley Badger",
+      "UserID": "usr_6df203e1-5dcd-49a7-b275-89de8b5e1540",
+      "AssociatedWrld": "FurryHideout"
+    },
+    {
+      "UserName": "jackster234",
+      "UserID": "usr_0fcb86e4-32f9-48d7-8188-48388e4e2b13",
+      "AssociatedWrld": "FurryHideout"
+    },
+    {
+      "UserName": "Corbelle",
+      "UserID": "usr_cca1a85f-c374-4e5a-99b8-6cb17d533189",
+      "AssociatedWrld": "FurryHideout"
+    },
+    {
+      "UserName": "Fuffeh",
+      "UserID": "usr_3ffdc634-9059-457f-b7ac-c91e3c4b1268",
+      "AssociatedWrld": "FurryHideout"
+    },
+    {
+      "UserName": "EzChipper",
+      "UserID": "usr_a027b93b-ab38-4308-8b13-b2c1d645c00e",
+      "AssociatedWrld": "FurryHideout"
+    },
+    {
+      "UserName": "Legra",
+      "UserID": "usr_869c5401-9b05-4048-a0ab-aa4547f2f5e7",
+      "AssociatedWrld": "FurryHideout"
+    },
+    {
+      "UserName": "MissKaraDragon",
+      "UserID": "usr_59e8eba8-4970-44c1-a958-82bb71809c2e",
+      "AssociatedWrld": "FurryHideout"
+    },
+    {
+      "UserName": "Sky Roo",
+      "UserID": "usr_9064a2cc-877d-4621-aedf-a97aec80ebd8",
+      "AssociatedWrld": "FurryHideout"
+    },
+    {
+      "UserName": "֍~Yoshino~֍",
+      "UserID": "usr_3b2ff992-cf37-4530-949d-28b95bc54af8",
+      "AssociatedWrld": "FurryHideout"
+    },
+    {
+      "UserName": "ChrisGrubka",
+      "UserID": "usr_7ddb2d8c-54d2-4df4-9d2b-c5fbf58ff932",
+      "AssociatedWrld": "FurryHideout"
+    },
+    {
+      "UserName": "Skadi Dire",
+      "UserID": "usr_301b1f92-d063-4788-9476-04069b6f17e3",
+      "AssociatedWrld": "FurryHideout"
+    },
+    {
+      "UserName": "Mountain_Man",
+      "UserID": "usr_b8672bb1-1b3d-4d00-8ef1-c8b905d07bd9",
+      "AssociatedWrld": "FurryHideout"
+    },
+    {
+      "UserName": "Lt_Shadow",
+      "UserID": "usr_bacb7ae8-4774-4dc0-84da-ce25e35d5bad",
+      "AssociatedWrld": "FurryHideout"
+    },
+    {
+      "UserName": "Pierce Barkwood",
+      "UserID": "usr_b4fb0142-cad5-4006-b22f-db4bafa6476f",
+      "AssociatedWrld": "FurryHideout"
+    },
+    {
+      "UserName": "Butterflywater",
+      "UserID": "usr_d8590c58-a16b-427b-be25-9a7152900d06",
+      "AssociatedWrld": "FurryHideout"
+    },
+    {
+      "UserName": "T_h_a_u_m",
+      "UserID": "usr_cc70d63e-cb6a-4ada-9db9-2937ab6c36ba",
+      "AssociatedWrld": "FurryHideout"
+    },
+    {
+      "UserName": "_Izanami_",
+      "UserID": "usr_e96e79d7-1781-4ac9-815c-8e22f70bdf4b",
+      "AssociatedWrld": "FurryHideout"
+    },
+    {
+      "UserName": "JanieUwU",
+      "UserID": "usr_093f92e9-eb27-4c02-b1f2-0c43027f772a",
+      "AssociatedWrld": "FurryHideout"
+    },
+    {
+      "UserName": "ArchAngel7777",
+      "UserID": "usr_06925fca-6caf-4f0d-9199-7f83f33f493e",
+      "AssociatedWrld": "FurryHideout"
+    },
+    {
+      "UserName": "IAmPuff",
+      "UserID": "usr_54abf28f-2b98-475e-bde5-87bc009b1259",
+      "AssociatedWrld": "FurryHideout"
+    },
+    {
+      "UserName": "« Aga »",
+      "UserID": "usr_b07d96d4-07a3-4183-ba42-fccec89f662d",
+      "AssociatedWrld": "FurryHideout"
+    },
+    {
+      "UserName": "Furry Hideout",
+      "UserID": "usr_d9411e83-8ec2-4f17-95bc-3bd8a7538e5f",
+      "AssociatedWrld": "FurryHideout"
+    },
+    {
+      "UserName": "Kumiho42",
+      "UserID": "usr_b7f4ace1-8ff9-4093-9f7a-d18f176ae140",
+      "AssociatedWrld": "FurryHideout"
+    },
+    {
+      "UserName": "LunaMoonsBane",
+      "UserID": "usr_356f7353-680a-43e1-9c25-e153edf9dd1d",
+      "AssociatedWrld": "FurryHideout"
+    },
+    {
+      "UserName": "Tau of the sun",
+      "UserID": "usr_0190245f-222a-4580-8ada-57ecc16b3f41",
+      "AssociatedWrld": "FurHub"
+    },
+    {
+      "UserName": "FBT Heaven Team",
+      "UserID": "usr_2b79b833-1f75-42f9-9e73-ccd15bd58c4d",
+      "AssociatedWrld": "FBTH"
+    },
+    {
+      "UserName": "Azuki Fumiko",
+      "UserID": "usr_7af60b89-9452-4854-ae3c-2cdc5115b22f",
+      "AssociatedWrld": "FBTH"
     },
     {
       "UserName": "",
-      "UserID": ""
+      "UserID": "",
+      "AssociatedWrld": ""
     },
     {
       "UserName": "",
-      "UserID": ""
+      "UserID": "",
+      "AssociatedWrld": ""
     },
     {
       "UserName": "",
-      "UserID": ""
+      "UserID": "",
+      "AssociatedWrld": ""
     },
     {
       "UserName": "",
-      "UserID": ""
+      "UserID": "",
+      "AssociatedWrld": ""
     },
     {
       "UserName": "",
-      "UserID": ""
-    },
-    {
-      "UserName": "",
-      "UserID": ""
-    },
-    {
-      "UserName": "",
-      "UserID": ""
-    },
-    {
-      "UserName": "",
-      "UserID": ""
+      "UserID": "",
+      "AssociatedWrld": ""
     }
   ]
 }
