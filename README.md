@@ -1,2 +1,2 @@
 # JSON
-Json files for my apps
+Just some JSON files for my personal use
